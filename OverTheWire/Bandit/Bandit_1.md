@@ -1,16 +1,17 @@
-# Bandit Level 0 → 1
+# Bandit Level 1 → 2
 
 **Difficulty:** ⭐1 (rate 1–5)
 
 **Tools used:** ssh, cat, ls
 
-<img width="1597" height="500" alt="image" src="https://github.com/user-attachments/assets/da920287-9d8f-46dc-850c-828186134ebb" />
+<img width="760" height="452" alt="image" src="https://github.com/user-attachments/assets/2954fed1-5242-4198-ab3b-1d4a8484a790" />
+
 
 ---
 
 ## Objective
 
- The password for the next level is stored in a file called `readme`. We need the password for entering next level.
+The password for the next level is stored in a file called - located in the home directory
 
 ---
 
