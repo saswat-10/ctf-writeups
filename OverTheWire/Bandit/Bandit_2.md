@@ -6,9 +6,6 @@
 
 ---
 
-<img width="762" height="476" alt="image" src="https://github.com/user-attachments/assets/adae7ffd-b82e-4150-bb56-cfc4b9389b32" />
-
-
 ## Objective
 The password for the next level is stored in a file called - located in the home directory
 
