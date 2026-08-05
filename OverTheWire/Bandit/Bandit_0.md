@@ -1,12 +1,15 @@
 # Bandit Level 0
 
 **Category:** Linux Fundamentals
+
 **Difficulty:** ⭐1 (rate 1–5 stars)
+
 **Tools used:** ssh,ls,cat
 
 ---
 
-<img width="1568" height="346" alt="image" src="https://github.com/user-attachments/assets/bbb7cea2-ad92-4d75-a155-bdfd6388051f" />
+<img width="1532" height="487" alt="image" src="https://github.com/user-attachments/assets/2b17d58a-5c49-4f02-9afa-95e151b1e950" />
+
 
 ## Solution
 It is basic level and a stepping stone for beginners learning Linux commands. It teaches how to use the ssh command to connect to a remote server.
