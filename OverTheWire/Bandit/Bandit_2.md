@@ -1,13 +1,16 @@
-# Bandit Level 1 → 2
+# Bandit Level 2 → 3
 
 **Difficulty:** ⭐1 (rate 1–5)
 
 **Tools used:** ssh, cat ,ls
 
+<img width="1051" height="426" alt="image" src="https://github.com/user-attachments/assets/d0858dc6-d922-4b96-99a4-6fce3a669066" />
+
+
 ---
 
 ## Objective
-The password for the next level is stored in a file called - located in the home directory
+The password for the next level is stored in a file called --spaces in this filename-- located in the home directory
 
 ---
 
